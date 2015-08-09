@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=LinkedListEmpty()
+comment1.params=data
+comment1.target=void\ addTail(int)
+comment2.params=data
+comment2.target=void\ addHead(int)
+comment3.params=index
+comment3.target=Node\ removeNode(int)
+comment4.params=
+comment4.target=int\ getSize()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
